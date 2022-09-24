@@ -1,0 +1,13 @@
+alert ("Alisher safarga chet elga chiqishni xohlayapsanmi?")
+alert ("Unda safarga ketadigan xarajatlarni hisoblab chiq!")
+var forTicket = prompt("Alisher safaringa samalyot borish kelishga sarflanadigan umumiy summa miqdorini kirit!")
+ alert ( `${forTicket} So'mda 5 325 170 so'm bo'ladi!`)
+ var hotel = prompt("Endi esa mehmonxona uchun sarflanadigan umumi summa miqdorini kirit!")
+ alert (`${hotel} So'mda 2 662 585 so'm bo'ladi!`)
+ var museum = prompt("Endi esa muzey va ko'ngilochar joylar uchun sarflanadigan umumiy summa miqdorini kirit!")
+ alert (`${museum}So'mda 1 278 003 so'm bo'ladi!`)
+var allCost = prompt("Senda bor umumiy summa miqdorini kirit!")
+alert (`${allCost}Bu so'mda 21 300 680 so'm bo'ladi! `)
+alert ("Sening umumiy xarajating 750$ va 120E va bu so'mda 9 265 758so'm bo'ladi!")
+alert ("Alisher senda sayohat qilish uchun etarli pul bor! \n Oq yo'l!!!")
+
